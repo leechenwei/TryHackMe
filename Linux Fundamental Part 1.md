@@ -36,6 +36,15 @@ Answer: /home/tryhackme/folder4 <br><br><br>
 <img src=https://user-images.githubusercontent.com/78288358/165430476-d08cb6ab-e8cc-4e99-b43f-b83f9569c704.png style="width:50%; height:50%;">
 Answer: THM{ACCESS} <br><br>
 2. Click on the completed <br><br><br>
+<ins><b>Task 7: An Introduction to Shell Operators</b></ins><br>
+1.<b>&</b>command allow the program to run on background<br>
+Answer: & <br><br>
+2.<b>echo "new content" > "file name of the file that content you want to be replaced"</b>command allow you to replace the content inside the file<br>
+<img src=https://user-images.githubusercontent.com/78288358/165440755-cbf20203-9f74-4b27-a63d-1df32a40b85c.png style="width:50%; height:50%;">
+Answer: echo passwords > password123 <br><br>
+3.<b>echo "new content" >> "file name"</b> command will allow you to add content inside the file without replacing the old content.<br>
+<img src=https://user-images.githubusercontent.com/78288358/165440958-b28368c3-a92c-4b10-ad22-f13bffe93881.png style="width:50%; height:50%;">
+Answer: echo tryhackme >> passwords <br><br><br>
 
                                                            
 
