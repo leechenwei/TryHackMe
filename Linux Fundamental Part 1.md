@@ -1,4 +1,4 @@
-<h1><ins>Linux Fundamental Part 1</ins></h1><br>
+<h1><ins><b>Linux Fundamental Part 1</b></ins></h1><br>
 <br>
 
 <h2><ins><b>Task 1:Introduction</b></ins><br></h2>
@@ -59,6 +59,8 @@ Answer: echo passwords > password123 <br><br>
 <img src=https://user-images.githubusercontent.com/78288358/165440958-b28368c3-a92c-4b10-ad22-f13bffe93881.png style="width:50%; height:50%;">
 Answer: echo tryhackme >> passwords <br><br><br>
 
+
+<h2>Next will be proceed to Linux Fundamental Part 2</h2>
                                                            
 
 
