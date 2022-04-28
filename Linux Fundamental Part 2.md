@@ -38,7 +38,7 @@ Answer: /var/log <br><br>
 3. <b>/tmp</b> is the directory of the temporary file, it store a file for a short period of time, worked like a RAM<br><br>
 Answer: /tmp <br><br>
 4. <b>/root</b> will be home directory of the root user for most cases, for example <b>user2</b> will be the home directory of the user2<br><br>
-Answer: root <br><br><br>
+Answer: /root <br><br><br>
 
 
 <h2><ins>Proceed to Linux Fundamental Part 3</ins></h2>
