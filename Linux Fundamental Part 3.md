@@ -53,9 +53,9 @@ Answer: THM{PROCESSES} <br><br>
 <img src=https://user-images.githubusercontent.com/78288358/165928617-279147e7-0dba-41c1-ac48-2771fc3577ba.png style="width:50%; height:50%;"><br>
 Answer: systemctl stop myservice <br><br>
 Extra NOTE: you may type in command <b>"systemctl"</b> to show all services.<br><br>
-6. <b>"systemctl enable "service name"</b> to start the service again.<br>
+6. <b>"systemctl enable "service name"</b> to start the service again.<br><<br>
 Answer: systemctl enable myservice <br><br>
-7. <b>"fg"</b> command to bring a background process to foreground.<br>
+7. <b>"fg"</b> command to bring a background process to foreground.<br><br>
 Answer: fg <br><br><br>
 
 
