@@ -63,6 +63,17 @@ Answer: fg <br><br><br>
 2. <b>"crontab -e"</b> to view the cron file. This question might be very confusing but when you try to read the cron file, <b>@reboot</b> is shown<br><br>
 Answer: @reboot <br><br><br>
 
-<h2><ins>Task 7:Maintaining Your System: Package Management</ins></h2>
-<h2><ins>Task 8:Maintaining Your System: Logs</ins></h2>
+<h2><ins>Task 7:Maintaining Your System: Package Management</ins></h2><br>
+Read Read Read~ <br><br><br>
+
+<h2><ins>Task 8:Maintaining Your System: Logs</ins></h2><br>
+1. Refer to previous task, we know logs are stored in /var/logs. From that, we can find for apache2 logs from that logs directory.
+<img src=https://user-images.githubusercontent.com/78288358/166104599-a92c6a3f-ed07-4e04-9936-122372e13a6b.png style="width:50%; height:50%;">
+2. You may use <b>"cat"</b> command to view the file in apache2 logs directory.
+<img src=https://user-images.githubusercontent.com/78288358/166104718-c038e93e-c685-487b-a7b4-4d8cae7db1b9.png style="width:50%; height:50%;">
+Answer: 10.9.232.111<br><br><br>
+3. You can view what thing that user try to access from reading the access log file.
+Answer: catsanddogs.jpg<br><br><br>
+
+
 
