@@ -74,6 +74,6 @@ Read Read Read~ <br><br><br>
 Answer: 10.9.232.111<br><br><br>
 3. You can view what thing that user try to access from reading the access log file.<br><br>
 Answer: catsanddogs.jpg<br><br><br>
-
+<h2><ins>End of Linux Fundamental</ins></h2>
 
 
