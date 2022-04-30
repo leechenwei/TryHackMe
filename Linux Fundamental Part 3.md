@@ -59,9 +59,10 @@ Answer: systemctl enable myservice <br><br>
 Answer: fg <br><br><br>
 
 
+<h2><ins>Task 6:Maintaining Your System: Automation</ins></h2><br>
+2. <b>"crontab -e"</b> to view the cron file. This question might be very confusing but when you try to read the cron file, <b>@reboot</b> is shown<br><br>
+Answer: @reboot <br><br><br>
 
-
-<h2><ins>Task 6:Maintaining Your System: Automation</ins></h2>
 <h2><ins>Task 7:Maintaining Your System: Package Management</ins></h2>
 <h2><ins>Task 8:Maintaining Your System: Logs</ins></h2>
 
