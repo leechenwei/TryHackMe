@@ -34,7 +34,7 @@ Open your other user's terminal and type in command to download the file (Please
 <img src=https://user-images.githubusercontent.com/78288358/165925318-51c4710c-e7bc-4ed5-9fd6-361aafa84234.png style="width:50%; height:50%;">
 The file had been download and you may view the file with <b>cat</b> command.
 <img src=https://user-images.githubusercontent.com/78288358/165925718-1bd508a9-04a6-4002-87ab-4c33de5810a3.png style="width:50%; height:50%;">
-3. Answer: THM{WGET_WEBSERVER} <br>
+3. Answer: THM{WGET_WEBSERVER} <br><br>
 Extra NOTE: It is not limited to http.server only, you may check out other libraries on python website.<br><br><br>
 
 
@@ -74,6 +74,6 @@ Read Read Read~ <br><br><br>
 Answer: 10.9.232.111<br><br><br>
 3. You can view what thing that user try to access from reading the access log file.<br><br>
 Answer: catsanddogs.jpg<br><br><br>
-<h2><ins>End of Linux Fundamental</ins></h2>
+<h2>End of Linux Fundamental</h2>
 
 
