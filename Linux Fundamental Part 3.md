@@ -26,7 +26,7 @@ Answer: THM{TEXT_EDITORS}<br><br><br>
 Firstly, you need to type the command <b>"python3 -m http.server"</b> on your tryhackme user terminal.<br> (It starts up a web server) <br>
 After that, you may use your new opened terminal to type in command <br><b>"wget http://"IP ADDRESS OF YOUR TRYHACKME MACHINE"/"FILE THAT EXIST ON THAT TRYHACKME MACHINE" to download the file into your own device. </b><br>
 In my steps,<br>
-You need to have 2 terminals, one is tryhackme another one is root or other user
+You need to have 2 terminals, one is tryhackme another one is root or other users
 <img src=https://user-images.githubusercontent.com/78288358/165924963-dc1e8d0e-1fd6-47e4-ba23-bdd5aaa52255.png style="width:50%; height:50%;">
 Open your tryhackme terminal and type in the command
 <img src=https://user-images.githubusercontent.com/78288358/165925097-002f24ab-15f7-4745-8b6a-089b0127fd62.png style="width:50%; height:50%;">
@@ -36,8 +36,6 @@ The file had been download and you may view the file with <b>cat</b> command.
 <img src=https://user-images.githubusercontent.com/78288358/165925718-1bd508a9-04a6-4002-87ab-4c33de5810a3.png style="width:50%; height:50%;">
 3. Answer: THM{WGET_WEBSERVER} <br><br>
 Extra NOTE: It is not limited to http.server only, you may check out other libraries on python website.<br><br><br>
-
-
 
 <h2><ins>Task 5:Processes 101</ins></h2>
 Remember to read all the guide & instructions above first!<br>
@@ -64,7 +62,7 @@ Answer: fg <br><br><br>
 Answer: @reboot <br><br><br>
 
 <h2><ins>Task 7:Maintaining Your System: Package Management</ins></h2><br>
-Read Read Read~ <br><br><br>
+Read Read Read~ <br><br>
 
 <h2><ins>Task 8:Maintaining Your System: Logs</ins></h2><br>
 1. Refer to previous task, we know logs are stored in <b>"/var/logs"</b>. From that, we can find for apache2 logs from that logs directory.
