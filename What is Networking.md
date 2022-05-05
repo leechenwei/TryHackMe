@@ -26,5 +26,12 @@ After that, click on request site, the server will think you are Alice and give 
 Answer: THM{YOU_GOT_ON_TRYHACKME} <br><br><br>
 
   
-<h2><ins>Task 4: Ping(ICMP)</ins></h2>
-<h2><ins>Task 4: The DHCP Protocol</ins></h2>
+<h2><ins>Task 4: Ping(ICMP)</ins></h2><br>
+1. <b>"ICMP(Internet Control Message Protocol)"</b> is used in pinging other server.<br><br>
+Answer : ICMP <br><br>
+2. Syntax to command ping is <b>ping "IP ADDRESS" </b> Eg. ping 192.168.1.10 <br><br>
+Answer: ping 10.10.10.10 <br><br>
+3. <img src=https://user-images.githubusercontent.com/78288358/166861855-86d4a74a-d17b-42c3-b5ab-196abaa47901.png style="width:50%; height:50%;">
+Answer: THM{I_PINGED_THE_SERVER} <br><br><br>
+
+<h1>Continue to "Intro to LAN"</h1>
