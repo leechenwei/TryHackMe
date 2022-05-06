@@ -40,3 +40,13 @@ Answer: MAC Address <br><br><br>
 Answer: IP Address<br><br><br>
 
 <h2><ins>Task 4:The DHCP Protocol</ins></h2><br>
+DHCP is known as Dynamic Host Configuration Protocol <br><br>
+1. DHCP Packet used to retrieve the IP Address is <b>DHCP Discover</b><br><br>
+Answer: DHCP Discover<br><br><br>
+2. DHCP Request used to send the msg to the offered IP address.
+Answer: DHCP Request<br><br><br>
+3. Last DHCP Packet sent to device from a DHCP server is known as DHCP ACK.
+Answer: DHCP ACK <br><br><br>
+
+
+<h1>Continue to DNS in detail</h1>
