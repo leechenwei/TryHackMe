@@ -30,4 +30,13 @@ Answer: Host Address<br><br><br>
 Answer: Default Gateway <br><br><br>
 
 <h2><ins>Task 3:The ARP Protocol</ins></h2><br>
+1. ARP stands for <b>Address Resolution Protocol</b><br><br>
+Answer: Address Resolution Protocol <br><br><br>
+2. ARP asks for IP address is known as <b>ARP Request</b><br><br>
+Answer: Request <br><br><br>
+3. Address to identify the physical device on the network is known as <b>MAC Address</b><br><br>
+Answer: MAC Address <br><br><br>
+4. Address to identify the logical device on the network is known as <b>IP Address</b><br><br>
+Answer: IP Address<br><br><br>
+
 <h2><ins>Task 4:The DHCP Protocol</ins></h2><br>
