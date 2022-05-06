@@ -16,6 +16,18 @@ Once you done that, you will get a THM Flag. It means bus topology is not that r
 Answer: THM{TOPOLOGY_FLAWS}<br><br><br>
 
 <h2><ins>Task 2:A Primer on Subnetting</ins></h2><br>
+1. Dividing a network up into smaller pieces or few nodes are known as <b>"Subnetting"</b><br><br>
+Answer: Subnetting<br><br><br>
+2. 32 bits in a subnet mask.<br><br>
+Answer: 32 <br><br><br>
+3. 0-255 is the range of a octet in a subnet mask. <br><br>
+Answer: 0-255<br><br><br>
+4. The start of the network of subnet mask can be identified as <b>Network Address</b><br><br>
+Answer: Network Address <br><br><br>
+5. To determine the address of local devices is known as <b>Host Address</b><br><br>
+Answer: Host Address<br><br><br>
+6. Used to send the information to other network is known as <b>Default Gateway</b>.Pretend as the host if no IP found in the network to receive the data.<br><br>
+Answer: Default Gateway <br><br><br>
 
 <h2><ins>Task 3:The ARP Protocol</ins></h2><br>
 <h2><ins>Task 4:The DHCP Protocol</ins></h2><br>
