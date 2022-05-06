@@ -8,3 +8,4 @@ The notes about TryHackMe labs. Listed<br>
 -Learning CyberSecurity<br>
 -What is Networking<br>
 -Intro to LAN<br>
+-DNS in detail<br>
