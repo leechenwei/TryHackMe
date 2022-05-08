@@ -16,5 +16,9 @@ Answer: 253 <br><br><br>
 Answer: ccTLD <br><br><br>
 
 <h2><ins>Task 3: Record Types</ins></h2>
+By reading, you could know the answer for each question.<br><br>
+1. Answer: MX<br><br><br>
+2. Answer: AAAA <br><br><br>
+
 <h2><ins>Task 4: Making a Request</ins></h2>
 <h2><ins>Task 5: Practical</ins></h2>
