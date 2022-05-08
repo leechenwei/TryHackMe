@@ -21,4 +21,11 @@ By reading, you could know the answer for each question.<br><br>
 2. Answer: AAAA <br><br><br>
 
 <h2><ins>Task 4: Making a Request</ins></h2>
+1. <b>“TTL"</b> stands for Time to Live is used to set how long the duration for the cache should be lasted for.<br><br>
+Answer: TTL<br><br><br>
+2. <b>Recursive server</b> is usually provided by your Internet Service Provider(ISP). Recursive server stores recently in-demand domain to make the process going faster.<br><br>
+Answer: recursive <br><br><br>
+3. <b>Authoritative</b> server responsible for storing all the records for a domain.<br><br>
+Answer： Authoritative<br><br><br>
+
 <h2><ins>Task 5: Practical</ins></h2>
