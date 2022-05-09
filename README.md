@@ -9,3 +9,4 @@ The notes about TryHackMe labs. Listed<br>
 -What is Networking<br>
 -Intro to LAN<br>
 -DNS in detail<br>
+-HTTP in detail<br>
