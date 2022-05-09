@@ -38,4 +38,6 @@ Answer: shops.myshopify.com<br><br><br>
 Answer: THM{7012BBA60997F35A9516C2E16D2944FF} <br><br><br>
 3.<img src=https://user-images.githubusercontent.com/78288358/167327879-3dad0c4e-6b1c-433d-abe5-a7e120fc83cf.png style="width:50%; height:50%;"><br>
 Answer: 30<br><br><br>
-4.
+4. <img src=https://user-images.githubusercontent.com/78288358/167327968-83c79d7c-7c37-433c-933a-66bdc61a15ea.png style="width:50%; height:50%;"><br>
+Answer: 10.10.10.10 <br><br><br>
+
