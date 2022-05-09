@@ -29,3 +29,13 @@ Answer: recursive <br><br><br>
 Answer： Authoritative<br><br><br>
 
 <h2><ins>Task 5: Practical</ins></h2>
+Click on the View Site to start your practical process.<br>
+Based on that, we can see that it uses nslookup command to check the record of DNS or IP.<br><br>
+
+1.<img src=https://user-images.githubusercontent.com/78288358/167327641-681ee505-c9ee-4c0e-b29e-6e5534e23894.png style="width:50%; height:50%;"><br>
+Answer: shops.myshopify.com<br><br><br>
+2.<img src=https://user-images.githubusercontent.com/78288358/167327733-649df170-9ada-4810-a040-e38f78665c7d.png style="width:50%; height:50%;"><br>
+Answer: THM{7012BBA60997F35A9516C2E16D2944FF} <br><br><br>
+3.<img src=https://user-images.githubusercontent.com/78288358/167327879-3dad0c4e-6b1c-433d-abe5-a7e120fc83cf.png style="width:50%; height:50%;"><br>
+Answer: 30<br><br><br>
+4.
