@@ -11,6 +11,12 @@ Answer: THM{INVALID_HTTP_CERT} <br><br><br>
 
 
 <h2><ins>Task 2:Requests And Responses</ins></h2>
+1. Looking at the request/reponse, you can know what HTTP protocol had used.
+<img src=https://user-images.githubusercontent.com/78288358/167585620-a8c97087-8495-4ed6-ac49-5e894a1c32f1.png style="width:50%; height:50%;">
+Answer: HTTP/1.1<br><br><br>
+2. <b>Content-length</b> in response show how much data in return. <br><br>
+Answer: Content-length <br><br><br>
+ 
 <h2><ins>Task 3:HTTP Methods</ins></h2>
 <h2><ins>Task 4:HTTP Status Codes</ins></h2>
 <h2><ins>Task 5:Headers</ins></h2>
