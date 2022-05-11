@@ -18,6 +18,15 @@ Answer: HTTP/1.1<br><br><br>
 Answer: Content-length <br><br><br>
  
 <h2><ins>Task 3:HTTP Methods</ins></h2>
+1. <b>POST</b> method is used to receive the input from user and create an account or submitting new data and creating new records. <br><br>
+Answer: POST <br><br><br>
+2. <b>PUT</b> method is used to update the data information.<br><br>
+Answer: PUT <br><br><br>
+3. <b>DELETE</b> method to delete the records from web server. <br><br>
+Answer: DELETE <br><br><br>
+4. <b>GET</b> method to retrieve information from web server.<br><br>
+Answer: GET <br><br><br>
+
 <h2><ins>Task 4:HTTP Status Codes</ins></h2>
 <h2><ins>Task 5:Headers</ins></h2>
 <h2><ins>Task 6:Cookies</ins></h2>
