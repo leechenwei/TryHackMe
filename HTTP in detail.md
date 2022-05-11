@@ -45,5 +45,15 @@ Answer: GET <br><br><br>
 4. Answer: 401<br><br><br>
 
 <h2><ins>Task 5:Headers</ins></h2>
+1. <b>User-agent</b> describes what web browser is being used in web server.<br><br>
+Answer: User-agent<br><br><br>
+2. <b>Content-type</b> describe what type of data can be expected in return<br><br>
+Answer: Content-type<br><br><br>
+3. <b>Host</b> describe which website is being requested.<br><br>
+Answer: Host<br><br><br>
+
 <h2><ins>Task 6:Cookies</ins></h2>
+1. You can set cookie by adding <b>"Set-Cookie"</b> on web request.<br><br>
+Answer: Set-Cookie<br><br><br>
+
 <h2><ins>Task 7:Making Requests</ins></h2>
