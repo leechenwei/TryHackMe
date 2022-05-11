@@ -28,6 +28,22 @@ Answer: DELETE <br><br><br>
 Answer: GET <br><br><br>
 
 <h2><ins>Task 4:HTTP Status Codes</ins></h2>
+200- GOOD AND RECEIVED OK<br>
+201- CREATED<br>
+301- Permanent Redirect<br>
+302- Temporary Redirect<br>
+400- Bad Request<br>
+401- Not Authorized<br>
+403- Forbidden<br>
+404- Page Not Found<br>
+405- Method not Allowed<br>
+500- Internal Service Error<br>
+503- Service Unavailable<br><br>
+1. Answer: 201<br><br>
+2. Answer: 404<br><br>
+3. Answer: 503<br><br>
+4. Answer: 401<br><br><br>
+
 <h2><ins>Task 5:Headers</ins></h2>
 <h2><ins>Task 6:Cookies</ins></h2>
 <h2><ins>Task 7:Making Requests</ins></h2>
