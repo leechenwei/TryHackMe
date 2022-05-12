@@ -72,7 +72,7 @@ Answer: THM{USER_HAS_UPDATED}<br><br><br>
 Answer: THM{HTTP_REQUEST_MASTER}<br><br><br>
 
 
-<h1>Continue to How Websites Work</h1>
+<h1>Continue to Window Fundamental Part 1</h1>
 
 
 
