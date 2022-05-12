@@ -62,5 +62,15 @@ Answer: THM{YOU'RE_IN_THE_ROOM} <br><br><br>
 2. <img src=https://user-images.githubusercontent.com/78288358/168086532-b9130231-abcf-479c-aab7-006dda005e91.png style="width:50%; height:50%;">
 <img src=https://user-images.githubusercontent.com/78288358/168086497-013f42db-be7d-42fc-a2ca-6818ae42ff84.png style="width:50%; height:50%;">
 Answer: THM{YOU_FOUND_THE_BLOG} <br><br><br>
-3. 
+3. <img src=https://user-images.githubusercontent.com/78288358/168086817-b40fbc5d-7124-40d8-abca-65980096329b.png style="width:50%; height:50%;">
+Answer: THM{USER_IS_DELETED}<br><br><br>
+4.<img src=https://user-images.githubusercontent.com/78288358/168087045-8bdeae50-bb08-41b6-89e3-bdce5ec8219d.png style="width:50%; height:50%;">
+<img src=https://user-images.githubusercontent.com/78288358/168087089-b025b92a-d02b-4149-80f9-f7b80227f33b.png style="width:50%; height:50%;">
+Answer: THM{USER_HAS_UPDATED}<br><br><br>
+5. ![image](https://user-images.githubusercontent.com/78288358/168087585-ff9747c4-dfe1-4bd4-8c25-4ec9f29ff6d2.png)
+![image](https://user-images.githubusercontent.com/78288358/168087534-c7930d79-37d8-457d-bf3c-6e6d66aebd55.png)
+Answer: THM{HTTP_REQUEST_MASTER}<br><br><br>
+
+
+
 
