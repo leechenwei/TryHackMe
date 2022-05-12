@@ -11,3 +11,5 @@ The notes about TryHackMe labs. Listed<br>
 -Intro to LAN<br>
 -DNS in detail<br>
 -HTTP in detail<br>
+-How websites work<br>
+
