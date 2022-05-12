@@ -57,3 +57,10 @@ Answer: Host<br><br><br>
 Answer: Set-Cookie<br><br><br>
 
 <h2><ins>Task 7:Making Requests</ins></h2>
+1. <img src=https://user-images.githubusercontent.com/78288358/168086318-f6a152c4-5e1f-45fb-8c5d-118cb552e096.png style="width:50%; height:50%;">
+Answer: THM{YOU'RE_IN_THE_ROOM} <br><br><br>
+2. <img src=https://user-images.githubusercontent.com/78288358/168086532-b9130231-abcf-479c-aab7-006dda005e91.png style="width:50%; height:50%;">
+<img src=https://user-images.githubusercontent.com/78288358/168086497-013f42db-be7d-42fc-a2ca-6818ae42ff84.png style="width:50%; height:50%;">
+Answer: THM{YOU_FOUND_THE_BLOG} <br><br><br>
+3. 
+
