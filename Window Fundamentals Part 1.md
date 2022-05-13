@@ -7,6 +7,10 @@ REMEMBER TO FOLLOW THE MACHINE IP ADDRESS PROVIDED BY YOUR THM.
 
 
 <h2><ins>Task 2:Windows Editions</ins></h2>
+1. <b>BitLocker</b> is what you can expect from a Window 10 Pro But not from Window 10 Home<br><br>
+Answer: BitLocker<br><br><br>
+
+
 <h2><ins>Task 3:The Desktop (GUI)</ins></h2>
 <h2><ins>Task 4:The File System</ins></h2>
 <h2><ins>Task 5:The Windows\System32 Folders</ins></h2>
