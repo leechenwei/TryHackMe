@@ -12,6 +12,11 @@ Answer: BitLocker<br><br><br>
 
 
 <h2><ins>Task 3:The Desktop (GUI)</ins></h2>
+Read the content provided by THM. You may try to explore the GUI yourself and answer the Questions.<br><br>
+1. Answer: Hidden<br><br><br>
+2. Answer: Show Task View button <br><br><br>
+3. Answer: Action Center <br><br><br>
+
 <h2><ins>Task 4:The File System</ins></h2>
 <h2><ins>Task 5:The Windows\System32 Folders</ins></h2>
 <h2><ins>Task 6:User Accounts, Profiles, and Permissions</ins></h2>
