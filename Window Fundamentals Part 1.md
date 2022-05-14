@@ -22,7 +22,11 @@ Read the content provided by THM. You may try to explore the GUI yourself and an
 Answer: New Technology File System<br><br><br>
 
 <h2><ins>Task 5:The Windows\System32 Folders</ins></h2>
+Remember to read through the content provided by THM, and remember to deploy the Windows Machine through THM to explore more about Windows GUI.<br><br>
+1. Answer: %windir% <br><br><br>
+
 <h2><ins>Task 6:User Accounts, Profiles, and Permissions</ins></h2>
+
 <h2><ins>Task 7:User Account Control</ins></h2>
 <h2><ins>Task 8:Settings and the Control Panel</ins></h2>
 <h2><ins>Task 9: Task Manager</ins></h2>
