@@ -27,7 +27,11 @@ Remember to read through the content provided by THM, and remember to deploy the
 
 <h2><ins>Task 6:User Accounts, Profiles, and Permissions</ins></h2>
 Connect to Window Machine Provided by THM through xfreerdp command, you should be able to find the answer.<br><br>
-1. 
+1. Answer: tryhackmebilly<br><br><br>
+2. Answer: Remote Desktop Users,Users<br><br><br>
+3. Answer: Guest<br><br><br>
+4. Answer: Account is disabled <br><br><br>
+
 <h2><ins>Task 7:User Account Control</ins></h2>
 <h2><ins>Task 8:Settings and the Control Panel</ins></h2>
 <h2><ins>Task 9: Task Manager</ins></h2>
