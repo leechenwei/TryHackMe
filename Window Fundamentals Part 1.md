@@ -18,6 +18,9 @@ Read the content provided by THM. You may try to explore the GUI yourself and an
 3. Answer: Action Center <br><br><br>
 
 <h2><ins>Task 4:The File System</ins></h2>
+1. You often saw NTFS in IT field. <b>NTFS</b> stands for New Technology File System. <br><br>
+Answer: New Technology File System<br><br><br>
+
 <h2><ins>Task 5:The Windows\System32 Folders</ins></h2>
 <h2><ins>Task 6:User Accounts, Profiles, and Permissions</ins></h2>
 <h2><ins>Task 7:User Account Control</ins></h2>
