@@ -33,5 +33,10 @@ Connect to Window Machine Provided by THM through xfreerdp command, you should b
 4. Answer: Account is disabled <br><br><br>
 
 <h2><ins>Task 7:User Account Control</ins></h2>
+1. Answer: User Account Control<br><br><br>
+
 <h2><ins>Task 8:Settings and the Control Panel</ins></h2>
+1. Answer: Window Defender Firewall<br><br><br>
+
 <h2><ins>Task 9: Task Manager</ins></h2>
+1. Answer: Ctrl+Shift+Esc <br><br><br>
