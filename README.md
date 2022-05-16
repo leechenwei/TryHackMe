@@ -12,4 +12,5 @@ The notes about TryHackMe labs. Listed<br>
 -DNS in detail<br>
 -HTTP in detail<br>
 -Window Fundamentals Part 1<br>
+-Window Fundamentals Part 2<br>
 
