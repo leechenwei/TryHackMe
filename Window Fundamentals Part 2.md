@@ -16,6 +16,9 @@
 3. Answer: sh4r3dF0Ld3r<br><br><br>
 
 <h2><ins>Task 5:System Information</ins></h2>
+1. Answer: msinfo32.exe<br><br><br>
+2. Answer: THM-WINFUN2<br><br><br>
+3. Answer: %SystemRoot%\system32\cmd.exe<br><br><br>
 
 <h2><ins>Task 6:Resource Monitor</ins></h2>
 <h2><ins>Task 7:Command Prompt</ins></h2>
