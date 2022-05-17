@@ -11,7 +11,12 @@
 1. Answer: UserAccountControlSettings.exe<br><br><br>
 
 <h2><ins>Task 4:Computer Management</ins></h2>
+1. Answer: compmgmt.msc<br><br><br>
+2. Answer: 6:15 AM<br><br><br>
+3. Answer: sh4r3dF0Ld3r<br><br><br>
+
 <h2><ins>Task 5:System Information</ins></h2>
+
 <h2><ins>Task 6:Resource Monitor</ins></h2>
 <h2><ins>Task 7:Command Prompt</ins></h2>
 <h2><ins>Task 8:Registry Editor</ins></h2>
