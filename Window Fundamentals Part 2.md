@@ -21,5 +21,14 @@
 3. Answer: %SystemRoot%\system32\cmd.exe<br><br><br>
 
 <h2><ins>Task 6:Resource Monitor</ins></h2>
+1. Answer: resmon.exe<br><br><br>
+
 <h2><ins>Task 7:Command Prompt</ins></h2>
+1. Answer: C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe <br><br><br>
+2. Answer: ipconfig /all <br><br><br>
+
 <h2><ins>Task 8:Registry Editor</ins></h2>
+1. Answer: regedt32.exe <br><br><br>
+
+
+<h1>Continue to Window Fundamentals Part 3</h1>
