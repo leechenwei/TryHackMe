@@ -25,4 +25,4 @@ NOTE: Read through this https://docs.microsoft.com/en-us/windows/security/inform
 NOTE: Read through this https://docs.microsoft.com/en-us/windows-server/storage/file-server/volume-shadow-copy-service<br><br><br>
 
 
-<h1>Continue to Introduction to Cyber Security Path's Labs </h1>
+<h1>Continue to Introduction to Offensive Security </h1>
