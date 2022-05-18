@@ -8,7 +8,7 @@ Go the terminal and type down "gobuster --help" for a list of available commands
 You will see image as below, there are two directories found(/images & /bank-transfer)<br>
 <img src=https://user-images.githubusercontent.com/78288358/169036026-69933a1e-27f4-4148-a80f-3c6b736ecafb.png style="width:50%; height:50%">
 
-We can try to redirect to both URL and see what inside that directory.
+We can try to redirect to both URL and see what inside that directory.<br>
 <img src=https://user-images.githubusercontent.com/78288358/169035983-ec14f9d1-0dc8-4b03-b3d8-c409ca289cab.png style="width:50%; height:50%">
 Now we can start to hack the bank.
 <img src=https://user-images.githubusercontent.com/78288358/169036250-2768e01a-1293-4d1d-b468-141b8c1c3314.png style="width:50%; height:50%"><br>
