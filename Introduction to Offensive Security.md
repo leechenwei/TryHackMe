@@ -19,3 +19,6 @@ Answer: BANK-HACKED<br><br><br>
 
 
 <h2><ins>Task 2:What is Offensive Security?</ins></h2>
+Read and understand what is the term "Offensive Security"<br><br><br>
+
+<h1>Continue to Web Application Security</h1>
