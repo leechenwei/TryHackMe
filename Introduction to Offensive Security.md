@@ -11,8 +11,8 @@ You will see image as below, there are two directories found(/images & /bank-tra
 We can try to redirect to both URL and see what inside that directory.
 <img src=https://user-images.githubusercontent.com/78288358/169035983-ec14f9d1-0dc8-4b03-b3d8-c409ca289cab.png style="width:50%; height:50%">
 Now we can start to hack the bank.
-<img src=https://user-images.githubusercontent.com/78288358/169036250-2768e01a-1293-4d1d-b468-141b8c1c3314.png style="width:50%; height:50%">
-<img src=https://user-images.githubusercontent.com/78288358/169036284-01c0e59b-26a0-4a07-935e-b47118afdacc.png style="width:50%: height:50%">
+<img src=https://user-images.githubusercontent.com/78288358/169036250-2768e01a-1293-4d1d-b468-141b8c1c3314.png style="width:50%; height:50%"><br>
+<img src=https://user-images.githubusercontent.com/78288358/169036284-01c0e59b-26a0-4a07-935e-b47118afdacc.png style="width:50%: height:50%"><br>
 <img src=https://user-images.githubusercontent.com/78288358/169036382-929eb12f-65e8-4ba0-b3f1-e93c55f0d722.png style="width:50%; height:50%">
 Now go back to the www.fakebank.com and check out the content(what had appeared and what had changed).<br><br>
 Answer: BANK-HACKED<br><br><br>
