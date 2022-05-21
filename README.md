@@ -17,4 +17,5 @@ The notes about TryHackMe labs. Listed<br>
 -Intro to Offensive Security<br>
 -Web Application Security<br>
 -Intro to Digital Forensics<br>
+-Pentesting Fundamentals<br>
 
