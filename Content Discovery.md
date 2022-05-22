@@ -11,7 +11,12 @@
 <h2><ins>Task 4:Manual Discovery - Sitemap.xml</ins></h2>
 ![image](https://user-images.githubusercontent.com/78288358/169673802-a6c8e1d6-27ee-4383-887c-5da09aace289.png)
 <h2><ins>Task 5:Manual Discovery - HTTP Headers</ins></h2>
+![image](https://user-images.githubusercontent.com/78288358/169674232-024c5da5-ccc3-4996-b8e3-da68ad675447.png)
+
 <h2><ins>Task 6:Manual Discovery - Framework Stack</ins></h2>
+![image](https://user-images.githubusercontent.com/78288358/169674219-0d66e563-9a9e-4122-99c7-8288586cb1d5.png)
+![image](https://user-images.githubusercontent.com/78288358/169674223-47aa860c-e3fc-438e-a961-f468372bc82c.png)
+
 <h2><ins>Task 7:OSINT - Google Hacking / Dorking</ins></h2>
 <h2><ins>Task 8:OSINT - Wappalyzer</ins></h2>
 <h2><ins>Task 9:OSINT - Wayback Machine</ins></h2>
