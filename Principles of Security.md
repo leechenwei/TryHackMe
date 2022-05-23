@@ -10,5 +10,10 @@
 3. Answer: PAM <br><br><br>
 4. Answer: PIM <br><br><br>
 
-<h2><ins>Task 4:The CIA Triad</ins></h2>
+<h2><ins>Task 4:Security Models Continued</ins></h2>
+1. Answer: The Bell-LaPadula Model<br><br><br>
+2. Answer: The Biba Model <br><br><br>
+3. Answer: The Bell-LaPadula Model<br><br><br>
+4. Answer: The Biba Model<br><br><br>
+
 <h2><ins>Task 5:The CIA Triad</ins></h2>
