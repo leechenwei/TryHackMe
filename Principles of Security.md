@@ -16,4 +16,10 @@
 3. Answer: The Bell-LaPadula Model<br><br><br>
 4. Answer: The Biba Model<br><br><br>
 
-<h2><ins>Task 5:The CIA Triad</ins></h2>
+<h2><ins>Task 5:Threat Modelling & Incident Response</ins></h2>
+1. Answer: STRIDE<br><br><br>
+2. Answer: Incident Response<br><br><br>
+3. Answer: Tampering <br><br><br>
+4. Answer: Recovery <br><br><br>
+
+<h1>Continue to Content Discovery</h1>
