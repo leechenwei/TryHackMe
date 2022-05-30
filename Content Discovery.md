@@ -26,8 +26,9 @@ Type down the command "curl http://IP ADDRESS OF YOUR MACHINE -v" to retrieve th
 1. Answer: THM{HEADER_FLAG}<br><br><br>
 
 <h2><ins>Task 6:Manual Discovery - Framework Stack</ins></h2>
-![image](https://user-images.githubusercontent.com/78288358/169674219-0d66e563-9a9e-4122-99c7-8288586cb1d5.png)
-![image](https://user-images.githubusercontent.com/78288358/169674223-47aa860c-e3fc-438e-a961-f468372bc82c.png)
+<img src=https://user-images.githubusercontent.com/78288358/169674219-0d66e563-9a9e-4122-99c7-8288586cb1d5.png style="width:50%; height:50%;">
+<img src=https://user-images.githubusercontent.com/78288358/169674223-47aa860c-e3fc-438e-a961-f468372bc82c.png style="width:50%; height:50%;">
+1. Answer: THM{CHANGE_DEFAULT_CREDENTIALS} <br><br><br>
 
 <h2><ins>Task 7:OSINT - Google Hacking / Dorking</ins></h2>
 <h2><ins>Task 8:OSINT - Wappalyzer</ins></h2>
