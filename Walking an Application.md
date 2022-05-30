@@ -5,5 +5,6 @@
 <h2><ins>Task 4:Developer Tools - Inspector</ins></h2>
 1. Answer: THM{NOT_SO_HIDDEN}<br><br><br>
 <h2><ins>Task 5:Developer Tools - Debugger</ins></h2>
+1. Answer: THM{CATCH_ME_IF_YOU_CAN}<br><br><br>
 <h2><ins>Task 6:Developer Tools - Network</ins></h2>
 <h1>Continue to<h1>
