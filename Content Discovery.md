@@ -40,6 +40,14 @@ Type down the command "curl http://IP ADDRESS OF YOUR MACHINE -v" to retrieve th
 1. Answer: https://archive.org/web/ <br><br><br>
 
 <h2><ins>Task 10:OSINT - GitHub</ins></h2>
+1. Answer: Version Control System<br><br><br>
+
 <h2><ins>Task 11:OSINT - S3 Buckets</ins></h2>
+1. Answer: .s3.amazonaws.com <br><br><br>
+
 <h2><ins>Task 12:Automated Discovery</ins></h2>
+As for this, I'm using gobuster. You may try out with dirb or ffuf.
+<img src=https://user-images.githubusercontent.com/78288358/170936879-1f3f04f9-9d27-467c-8bf2-12385dbaceb4.png style="width:50%; height:50%">
+1. Answer: /monthly<br><br><br>
+2. Answer: /development.log<br><br><br>
 
