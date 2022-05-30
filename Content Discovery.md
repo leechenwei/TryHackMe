@@ -31,8 +31,14 @@ Type down the command "curl http://IP ADDRESS OF YOUR MACHINE -v" to retrieve th
 1. Answer: THM{CHANGE_DEFAULT_CREDENTIALS} <br><br><br>
 
 <h2><ins>Task 7:OSINT - Google Hacking / Dorking</ins></h2>
+1. Answer: site:<br><br><br>
+
 <h2><ins>Task 8:OSINT - Wappalyzer</ins></h2>
+1. Answer: Wappalyzer<br><br><br>
+
 <h2><ins>Task 9:OSINT - Wayback Machine</ins></h2>
+1. Answer: https://archive.org/web/ <br><br><br>
+
 <h2><ins>Task 10:OSINT - GitHub</ins></h2>
 <h2><ins>Task 11:OSINT - S3 Buckets</ins></h2>
 <h2><ins>Task 12:Automated Discovery</ins></h2>
