@@ -8,4 +8,4 @@
 1. Answer: THM{CATCH_ME_IF_YOU_CAN}<br><br><br>
 <h2><ins>Task 6:Developer Tools - Network</ins></h2>
 1. Answer: THM{GOT_AJAX_FLAG} <br><br><br>
-<h1>Continue to<h1>
+<h1>Continue to Content Discovery<h1>
