@@ -3,6 +3,9 @@ Open the attackbox and open the Burp Suite Community Version. <br>
 Try and look and familiar with the Burp Suite's GUI. <br>
 
 <h2><ins>Task 4:Repeater:Views</ins></h2>
+<img src=https://user-images.githubusercontent.com/78288358/171150214-0f51b850-986c-4019-8346-ef284cc53e83.png style="width:50%; height:50%;">
+2. Answer: Render<br><br><br>
+
 <h2><ins>Task 5:Repeater:Inspector</ins></h2>
 <h2><ins>Task 6:Practical: Example</ins></h2>
 ![image](https://user-images.githubusercontent.com/78288358/170943074-71910b82-22ac-4c9b-82f2-98251ef962e6.png)
