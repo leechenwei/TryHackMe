@@ -50,4 +50,4 @@ As for this, I'm using gobuster. You may try out with dirb or ffuf.
 <img src=https://user-images.githubusercontent.com/78288358/170936879-1f3f04f9-9d27-467c-8bf2-12385dbaceb4.png style="width:50%; height:50%">
 1. Answer: /monthly<br><br><br>
 2. Answer: /development.log<br><br><br>
-
+<h1>Continue to Burp Suite:The Basics</h1>
