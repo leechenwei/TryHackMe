@@ -8,7 +8,9 @@ Try and look and familiar with the Burp Suite's GUI. <br>
 
 <h2><ins>Task 6:Practical: Example</ins></h2>
 Intercept a request to the website and move it to Repeater.<br>
-Head toward Repeater and add on <b>"FlagAuthorised: True"(refer to image below)</b> and click Send. The response will show on the right side.<br>
+Head toward Repeater and add on <b>"FlagAuthorised: True"</b> and click Send. The response will show on the right side.<br>
+Based on the image below, I'm not using the Repeater but I modify the content of request in the proxy intercept session straight<br>
+<b>It is recommeded to use Repeater so you can modify as many times as you want without refreshing the web again</b>
 <img src=https://user-images.githubusercontent.com/78288358/170943074-71910b82-22ac-4c9b-82f2-98251ef962e6.png style"width:50%; height:50%;">
 1. Answer: THM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}<br><br><br>
 
