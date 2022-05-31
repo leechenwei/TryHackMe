@@ -3,7 +3,7 @@ Open the attackbox and open the Burp Suite Community Version. <br>
 Try and look and familiar with the Burp Suite's GUI. <br>
 
 <h2><ins>Task 4:Repeater:Views</ins></h2>
-<img src=https://user-images.githubusercontent.com/78288358/171150214-0f51b850-986c-4019-8346-ef284cc53e83.png style="width:50%; height:50%;">
+<img src=https://user-images.githubusercontent.com/78288358/171150214-0f51b850-986c-4019-8346-ef284cc53e83.png>
 2. Answer: Render<br><br><br>
 
 <h2><ins>Task 6:Practical: Example</ins></h2>
@@ -24,4 +24,7 @@ Modify the UID and click Send. You will receive the 500 Internal Server Error re
 <img src=https://user-images.githubusercontent.com/78288358/170944005-f4480a12-c44a-4937-a1b5-ce6cfd43c236.png>
 2. Answer: THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}<br><br><br>
 <h2><ins>Task 8:SQLi with Repeater</ins></h2>
-![image](https://user-images.githubusercontent.com/78288358/170944815-30864630-6692-4c01-950e-f2680e64e625.png)
+Advised to read and follow the content provided by THM in this task.<br>
+Intercept a request at /about/0 directory and send to Repeater.<br>
+Change the UID or PARAMETER to <b>"0 UNION ALL SELECT notes,null,null,null,null FROM people WHERE id = 1"</b> and click Send.<br>
+<img src=https://user-images.githubusercontent.com/78288358/170944815-30864630-6692-4c01-950e-f2680e64e625.png>
