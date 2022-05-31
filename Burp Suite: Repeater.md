@@ -1,4 +1,9 @@
 <h1><ins>Burp Suite: Repeater</ins></h1>
+Open the attackbox and open the Burp Suite Community Version. <br>
+Try and look and familiar with the Burp Suite's GUI. <br>
+
+<h2><ins>Task 4:Repeater:Views</ins></h2>
+<h2><ins>Task 5:Repeater:Inspector</ins></h2>
 <h2><ins>Task 6:Practical: Example</ins></h2>
 ![image](https://user-images.githubusercontent.com/78288358/170943074-71910b82-22ac-4c9b-82f2-98251ef962e6.png)
 <h2><ins>Task 7:Practical: Challenge</ins></h2>
