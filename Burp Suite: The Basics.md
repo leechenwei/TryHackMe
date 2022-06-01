@@ -12,7 +12,7 @@
 <h2><ins>Task 8:Introduction to the Burp Proxy</ins></h2>
 <h2><ins>Task 9:Connecting through the Proxy (FoxyProxy)</ins></h2>
 <h2><ins>Task 10:Proxying HTTPS</ins></h2>
-<h2><ins>Task 11:Navigation</ins></h2>
-<h2><ins>Task 12:Navigation</ins></h2>
+<h2><ins>Task 11:The Burp Suite Browser</ins></h2>
+<h2><ins>Task 12:Scoping and Targeting</ins></h2>
 <h2><ins>Task 13:Navigation</ins></h2>
 <h2><ins>Task 14:Navigation</ins></h2>
