@@ -20,3 +20,6 @@ The notes about TryHackMe labs. Listed<br>
 -Pentesting Fundamentals<br>
 -Principles of Security<br>
 -Walking an Application<br>
+-Content Discovery<br>
+-Burp Suite:The Basics<br>
+-Burp Suite:Repeater<br>
