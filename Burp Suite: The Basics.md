@@ -1,5 +1,5 @@
 <h1><ins>Burp Suite: The Basics</ins></h1>
-Remember to look and go through all the features of Burp Suite. Hands-on-experience is what you needed.
+Remember to look and go through all the features of Burp Suite. Hands-on-experience is what you needed.<br>
 
 <h2><ins>Task 2:What is Burp Suite?</ins></h2>
 1. Answer: Burp Suite Community<br><br><br>
@@ -21,9 +21,8 @@ Remember to look and go through all the features of Burp Suite. Hands-on-experie
 2. Answer: Ctrl+F<br><br><br>
 
 <h2><ins>Task 9:Connecting through the Proxy (FoxyProxy)</ins></h2>
-<h2><ins>Task 10:Proxying HTTPS</ins></h2>
-<h2><ins>Task 11:The Burp Suite Browser</ins></h2>
-<h2><ins>Task 12:Scoping and Targeting</ins></h2>
+1. Answer: Response to this request<br><br><br>
+
 <h2><ins>Task 13:Site Map and Issue Definitions</ins></h2>
 <h2><ins>Task 14:Example Attack</ins></h2>
 <h1>Continue to Burp Suite: Repeater</h1>
