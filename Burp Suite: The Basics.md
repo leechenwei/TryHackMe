@@ -14,5 +14,5 @@
 <h2><ins>Task 10:Proxying HTTPS</ins></h2>
 <h2><ins>Task 11:The Burp Suite Browser</ins></h2>
 <h2><ins>Task 12:Scoping and Targeting</ins></h2>
-<h2><ins>Task 13:Navigation</ins></h2>
-<h2><ins>Task 14:Navigation</ins></h2>
+<h2><ins>Task 13:Site Map and Issue Definitions</ins></h2>
+<h2><ins>Task 14:Example Attack</ins></h2>
