@@ -23,3 +23,4 @@ The notes about TryHackMe labs. Listed<br>
 -Content Discovery<br>
 -Burp Suite:The Basics<br>
 -Burp Suite:Repeater<br>
+-Passive Reconnaissance<br>
