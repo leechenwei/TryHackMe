@@ -20,4 +20,18 @@ The command indicate to find the TXT records of thmlabs.com<br>
 1. Answer: THM{a5b83929888ed36acb0272971e438d78}<br><br><br>
 
 <h2><ins>Task 5:DNSDumpster</ins></h2>
+1. Answer: remote<br><br><br>
+
 <h2><ins>Task 6:Shodan.io</ins></h2>
+Go to shodan.io web and search for <b>"apache"</b>, from there you will see the leaderboard on the leftside. <br>
+The answer can be on the leaderboard<br>
+<img src=https://user-images.githubusercontent.com/78288358/171814769-0e0731c0-7bd8-4665-8b4b-13dae56e068d.png>
+1. Answer: Germany <br><br><br>
+
+<img src=https://user-images.githubusercontent.com/78288358/171814814-72db9f00-f891-4842-b6cb-04afa28355a4.png>
+2. Answer: 8080 <br><br><br>
+
+Now you may search for nginx and check the leaderboard to find out the answer for 3rd question as well.<br>
+<img src=https://user-images.githubusercontent.com/78288358/171814869-38549745-6a3b-490c-9d02-bf70f58e1f77.png>
+3. Answer: 8888<br><br><br>
+
