@@ -8,7 +8,7 @@ Set size for ICMP data echo request<br>
 1. Answer: -s<br><br><br>
 2. Answer: 8<br><br><br>
 3. Answer: Y<br><br><br>
-<b>-c</b> stands for count if -c 10 that means counts to 10.
+<b>-c</b> stands for count if -c 10 that means counts to 10.<br>
 5. Answer: 10<br><br><br>
 
 <h2><ins>Task 4:Traceroute</ins></h2>
