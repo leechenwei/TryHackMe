@@ -12,5 +12,10 @@ Set size for ICMP data echo request<br>
 5. Answer: 10<br><br><br>
 
 <h2><ins>Task 4:Traceroute</ins></h2>
+Look at the picture of the task you will get the answer you need. Be sure to understand what traceroute used for.<br>
+1. Answer: 172.67.69.208<br><br><br>
+2. Answer: 104.26.11.229<br><br><br>
+3. Answer: 26 <br><br><br>
+
 <h2><ins>Task 5:Telnet</ins></h2>
 <h2><ins>Task 6:Netcat</ins></h2>
