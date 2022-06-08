@@ -21,5 +21,11 @@ Look at the picture of the task you will get the answer you need. Be sure to und
 Type command <b>"telnet IP_ADDRESS 80"</b>, after that type GET / HTTP/1.1 and host: telnet at below. <br>
 You should receive the answer you want after that.
 1. Answer: Apache <br><br><br>
-2. Answer: 
+2. Answer: 2.4.10<br><br><br>
+
 <h2><ins>Task 6:Netcat</ins></h2>
+1. Answer: 0.17<br><br><br>
+
+
+<h2>Please Familiar with Netcat</h2> as it will help you in future!
+<h1>Continue to Nmap Live Host Discovery</h1>
