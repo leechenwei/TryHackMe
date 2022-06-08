@@ -27,5 +27,5 @@ You should receive the answer you want after that.
 1. Answer: 0.17<br><br><br>
 
 
-<h2>Please Familiar with Netcat</h2> as it will help you in future!
+<h2>Please Familiar with Netcat as it will help you in future!</h2>
 <h1>Continue to Nmap Live Host Discovery</h1>
