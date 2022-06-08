@@ -18,4 +18,8 @@ Look at the picture of the task you will get the answer you need. Be sure to und
 3. Answer: 26 <br><br><br>
 
 <h2><ins>Task 5:Telnet</ins></h2>
+Type command <b>"telnet IP_ADDRESS 80"</b>, after that type GET / HTTP/1.1 and host: telnet at below. <br>
+You should receive the answer you want after that.
+1. Answer: Apache <br><br><br>
+2. Answer: 
 <h2><ins>Task 6:Netcat</ins></h2>
