@@ -36,4 +36,8 @@ PE - ICMP echo reply<br>
 3. Answer: -PE<br><br><br>
 
 <h2><ins>Task 7:Nmap Host Discovery Using TCP and UDP</ins></h2>
+1. Answer: TCP SYN Ping<br><br><br>
+2. Answer: TCP ACK Ping<br><br><br>
+3. Answer: PS23<br><br><br
+                           
 <h2><ins>Task 8:Using Reverse-DNS Lookup</ins></h2>
