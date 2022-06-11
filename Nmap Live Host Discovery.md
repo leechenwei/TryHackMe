@@ -41,3 +41,5 @@ PE - ICMP echo reply<br>
 3. Answer: PS23<br><br><br
                            
 <h2><ins>Task 8:Using Reverse-DNS Lookup</ins></h2>
+<b>"-R"</b> is used for query DNS server of offline host.
+1. Answer: -R<br><br><br>
