@@ -10,6 +10,9 @@ List of vulnerabilities are:<br><br>
 1. Answer: Operating System<br><br><br>
 2. Answer: Application Logic <br><br><br>
 <h2><ins>Task 3:Scoring Vulnerabilities (CVSS & VPR)</ins></h2>
+Scoring Vulnearbilites Framework: (1)<b>CVSS</b> and (2)<b>VPR</b><br>
+1. CVSS (Common Vulnerability Scoring System)<br>
+2. VPR (Vulnerability Priority Rating)<br><br>
 <h2><ins>Task 4:Vulnerability Databases</ins></h2>
 <h2><ins>Task 5:An Example of Finding a Vulnerability</ins></h2>
 <h2><ins>Task 6:Showcase: Exploiting Ackme's Application</ins></h2>
