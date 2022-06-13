@@ -27,4 +27,6 @@ From that, there are 2 vulnerability databases out there<br>
 1. Answer: 1585 <br><br><br>
 2. Answer: Offensive Security<br><br><br>
 <h2><ins>Task 5:An Example of Finding a Vulnerability</ins></h2>
+1. Answer: Version Disclosure<br><br><br>
+
 <h2><ins>Task 6:Showcase: Exploiting Ackme's Application</ins></h2>
