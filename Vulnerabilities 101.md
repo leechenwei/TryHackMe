@@ -30,3 +30,13 @@ From that, there are 2 vulnerability databases out there<br>
 1. Answer: Version Disclosure<br><br><br>
 
 <h2><ins>Task 6:Showcase: Exploiting Ackme's Application</ins></h2>
+Click on the View Site <br><br>
+<img src=https://user-images.githubusercontent.com/78288358/173354403-2140796b-2614-4e72-b95b-fe23fc1f1f2a.png><br>
+We can see what port are available or open. <br><br>
+<img src=https://user-images.githubusercontent.com/78288358/173354571-ffec040f-72f1-48b8-93d2-39c1e0ec3fe7.png>
+<img src=https://user-images.githubusercontent.com/78288358/173354708-e831e5ae-46e5-4cb9-b4a5-3a4518ed980a.png>
+Continue the task and u will find the flag<br><br>
+1. Answer: THM{ACKME_ENGAGEMENT}<br><br><br>
+
+
+
