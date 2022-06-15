@@ -7,4 +7,6 @@ Metasploit is a tool used to exploit the vulnerabilities. It is a great free too
 4. Answer: Singles<br><br><br>
 
 <h2><ins>Task 3:Msfconsole</ins></h2>
+1. Answer: search apache<br><br><br>
+2. Answer: todb<br><br<br>
 <h2><ins>Task 4:Working with modules</ins></h2>
