@@ -3,7 +3,7 @@ Metasploit is a tool used to exploit the vulnerabilities. It is a great free too
 <h2><ins>Task 2:Main Components of Metasploit</ins></h2>
 1. Answer: Exploit<br><br><br>
 2. Answer: Payload<br><br><br>
-3. Answer: Single<br><br><br>
+3. Answer: Singles<br><br><br>
 4. Answer: Singles<br><br><br>
 
 <h2><ins>Task 3:Msfconsole</ins></h2>
