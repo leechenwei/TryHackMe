@@ -25,3 +25,4 @@ The notes about TryHackMe labs. Listed<br>
 -Burp Suite:Repeater<br>
 -Passive Reconnaissance<br>
 -Activer Reconnaissance<br>
+-Nmap Live Host Discovery<br>
