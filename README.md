@@ -26,3 +26,4 @@ The notes about TryHackMe labs. Listed<br>
 -Passive Reconnaissance<br>
 -Active Reconnaissance<br>
 -Nmap Live Host Discovery<br>
+-Vulnerabilities 101<br>
