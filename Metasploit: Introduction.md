@@ -16,4 +16,5 @@ Metasploit is a tool used to exploit the vulnerabilities. It is a great free too
 Understand the syntax of Metasploit, you can solve this room easily.<br><br>
 1.Answer: set LPORT 6666<br><br><br>
 2.Answer: set RHOSTS 10.10.19.23<br><br><br>
-3.Answer: unset PAYLOAD
+3.Answer: unset PAYLOAD<br><br><br>
+4.Answer: exploit<br><br><br>
